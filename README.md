@@ -16,3 +16,20 @@
   Hi there!
   <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611b122174260657392b48bcbe2dfa740510ae11145&rid=giphy.gif&ct=s" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 👨‍💻: About Me :
+I am a Data Scientist, with experience of the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
+
+- 🔭: I’m working as an AWS Technical Mentor and contributing to frontend and backend for building web applications.
+
+- 🌱: Exploring Data Science projects on Kaggle.
+
+- ⚡: In my free time, I work on solo projects and read tech articles.
+
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-j-mukoyani/)
