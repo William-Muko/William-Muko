@@ -36,7 +36,7 @@ I am a Data Scientist, with experience of the AWS Cloud <img src="https://media.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -44,3 +44,9 @@ I am a Data Scientist, with experience of the AWS Cloud <img src="https://media.
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" **alt="SQlite" width="40" height="40"/>
+  
+---
+
+### 🔥: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=William-Muko&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Muko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
