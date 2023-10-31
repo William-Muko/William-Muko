@@ -24,7 +24,7 @@
 ---
 
 ### 👨‍💻: About Me :
-I am a Data Scientist, with experience of the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
+I am a Cloud Engineer, with experience of the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
 
 - 🔭: I’m working as an AWS Technical Mentor and contributing to Cloud Engineering projects.
 
