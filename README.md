@@ -13,8 +13,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=William-Muko&style=flat-square&color=blue" alt=""/></div>
 
 <h1>
-  Hi 👋🏽
-  <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611b122174260657392b48bcbe2dfa740510ae11145&rid=giphy.gif&ct=s" width="30px"/> , I'm  William Muko
+  Hi 👋🏽, I'm  William Muko, or you can just call me "Jeff Muko"
 </h1>
 
 <div align="center">
