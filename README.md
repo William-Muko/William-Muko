@@ -13,7 +13,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=William-Muko&style=flat-square&color=blue" alt=""/></div>
 
 <h1>
-  Hi
+  Hi 👋🏽
   <img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611b122174260657392b48bcbe2dfa740510ae11145&rid=giphy.gif&ct=s" width="30px"/> , I'm  William Muko
 </h1>
 
@@ -23,8 +23,8 @@
 
 ---
 
-### 👨‍💻: About Me :
-I am a Cloud Engineer, with experience of the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
+### 🧑🏽‍💻: About Me :
+I am a Cloud Engineer, with experience in the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
 
 - 🔭: I’m working as an AWS Technical Instructor(AAI) and contributing to Cloud Engineering projects.
 
