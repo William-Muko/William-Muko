@@ -13,7 +13,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=William-Muko&style=flat-square&color=blue" alt=""/></div>
 
 <h1>
-  Hi 👋🏽, I'm  William Muko, or you can just call me "Jeff Muko"
+  Hi 👋🏽, I'm  William Muko
 </h1>
 
 <div align="center">
