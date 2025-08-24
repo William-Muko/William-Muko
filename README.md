@@ -68,7 +68,7 @@ I am a Cloud Engineer, with experience in the AWS Cloud <img src="https://media.
 - Hit follow and connect!
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwZ2N5YmljcWt2ZHlrMWE2YzdhbGFwYmJhdG9ueGZhMjlpdnNjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcFpVgEaoURJh0gTLB/giphy.gif" width="100" alt="Picnic"/>  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJhYjgzdWFxdDNxMGIxeHZmMHZyNDJ0bmVsaDdoN3dxMjRsM25pNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100" alt="Pizza Ninja"/>  
 </p>
 
 <h2 align="center"><code>&lt;/ HelloWorld 🖖🏽 &gt;</code></h2>  
