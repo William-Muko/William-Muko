@@ -58,3 +58,18 @@ I am a Cloud Engineer, with experience in the AWS Cloud <img src="https://media.
 ### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=William-Muko&theme=dark&background=000000)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Muko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱 Currently Learning
+- 🤖 AI & Machine Learning *Generative AI & LLMs*
+
+## 🕸️ Let's Connect! 
+- Want to share notes? DM me!
+- Got interesting ideas we can work on together? Let's talk!
+- Hit follow and connect!
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwZ2N5YmljcWt2ZHlrMWE2YzdhbGFwYmJhdG9ueGZhMjlpdnNjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcFpVgEaoURJh0gTLB/giphy.gif" width="100" alt="Picnic"/>  
+</p>
+
+<h2 align="center"><code>&lt;/ HelloWorld 🖖🏽 &gt;</code></h2>  
+  
