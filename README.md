@@ -2,20 +2,17 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47kbkqhwt5jzoumxhm0cugkv51i294uiz78sswnfd3&rid=giphy.gif&ct=s" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/william-j-mukoyani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Muko_Will">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=William-Muko&style=flat-square&color=blue" alt=""/></div>
 
-<h1>
-  Hi 👋🏽, I'm  William Muko
-</h1>
+<p align="center">
+  <a href="https://github.com/william-muko">
+    <img src="https://github.com/William-Muko/images/blob/main/Muko.drawio.png" alt="William Mukoyani" /></a>
+</p>
 
+<P align="Center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=51F77B&center=true&vCenter=true&width=435&lines=Cloud+Engineer(AWS);Learning+Everything+I+can+;Exploring+Machine+Learning++Projects" alt="Typing SVG" /></a>
+</P>
+
+---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -56,7 +53,7 @@ I am a Cloud Engineer, with experience in the AWS Cloud <img src="https://media.
 ---
 
 ### 🔥: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=William-Muko&theme=dark&background=000000)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=William-Muko&theme=merko)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Muko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
