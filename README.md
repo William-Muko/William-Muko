@@ -54,7 +54,7 @@ I am a Cloud Engineer, with experience in the AWS Cloud <img src="https://media.
 
 ### 🔥: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=William-Muko&theme=merko)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Muko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Muko&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
