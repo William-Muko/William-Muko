@@ -33,23 +33,29 @@ I am a Cloud Engineer, with experience in the AWS Cloud <img src="https://media.
 ---
 
 ### 🛠️: Tech Stack :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" **alt="Anaconda" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQlite" **alt="SQlite" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="mongoDB" **alt="mongo" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="K8" width="40" height="40"/>
 
-  
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" alt="Anaconda" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" alt="Terraform" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>
+</div>
+
+
 ---
 
 ### 🔥: My Stats :
