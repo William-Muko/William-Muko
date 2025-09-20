@@ -31,6 +31,7 @@
 I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
 
 - 🔭 I’m working as an AWS Technical Instructor (AAI) and contributing to Cloud Engineering projects.
+- 🤖 Currently Leading Azubi Africa with AWS Cloud Projects.
 - 🌱 Exploring Data Science projects on Kaggle.
 - ⚡ In my free time, I work on solo projects and read tech articles.
 - 📫 How to reach me:
