@@ -69,12 +69,10 @@ I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.g
 
 ### 🔥 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=william-muko&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Muko&layout=donut&theme=merko" />
-</a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=william-muko&show_icons=true&theme=merko&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-muko&layout=compact&theme=merko&hide_border=true" />
+</p>
 
 ---
 
