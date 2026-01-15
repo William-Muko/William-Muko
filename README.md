@@ -70,15 +70,11 @@ I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.g
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=william-muko&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=william-muko&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=william-muko&theme=merko" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=william-muko&layout=compact&theme=merko&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=william-muko&theme=merko&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
