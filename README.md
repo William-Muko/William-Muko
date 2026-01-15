@@ -73,6 +73,10 @@ I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.g
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=william-muko&theme=merko&hide_border=true" alt="Contribution Graph" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/william-muko/william-muko/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
@@ -92,25 +96,23 @@ I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.g
 
 <!-- SOCIAL ICONS -->
 
-<div style="width: 100%; display: flex; justify-content: center; margin-top: 20px;">
-  <div style="display: flex; gap: 15px; justify-content: center; align-items: center; padding: 20px;">
-    <a href="https://x.com/Jeff_Muko" style="display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter / X" alt="Twitter" width="40" height="40">
-    </a>
-    <a href="https://www.instagram.com/jeff_muko/" style="display: inline-block;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="40" height="40">
-    </a>
-    <a href="https://discord.com/users/mukodr" style="display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord" alt="Discord" width="40" height="40">
-    </a>
-    <a href="https://linkedin.com/in/william-j-mukoyani/" style="display: inline-block;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
-    </a>
-    <a href="https://www.twitch.tv/mukoyani" style="display: inline-block;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" title="Twitch" alt="Twitch" width="40" height="40">
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://x.com/Jeff_Muko">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter / X" alt="Twitter" width="40" height="40">
+  </a>
+  <a href="https://www.instagram.com/jeff_muko/">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="40" height="40">
+  </a>
+  <a href="https://discord.com/users/mukodr">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord" alt="Discord" width="40" height="40">
+  </a>
+  <a href="https://linkedin.com/in/william-j-mukoyani/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="https://www.twitch.tv/mukoyani">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" title="Twitch" alt="Twitch" width="40" height="40">
+  </a>
+</p>
 
 
 
