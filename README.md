@@ -38,7 +38,7 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ---
 
-### 🎯 Fun Facts
+### 🎯 Fun Facts About Me
 
 - 🍕 Pizza enthusiast (hence the ninja pizza footer!)
 - 🎮 Gamer and Twitch streamer in my downtime
