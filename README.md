@@ -28,14 +28,23 @@
 
 ### 🧑🏽‍💻 About Me
 
-I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪.
+Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya 🇰🇪
 
 - 🔭 I’m working as an AWS Technical Instructor (AAI) and contributing to Cloud Engineering projects.
-- 🤖 Currently Leading Azubi Africa with AWS Cloud Projects.
-- 🌱 Exploring Data Science projects on Kaggle.
-- ⚡ In my free time, I work on solo projects and read tech articles.
-- 📫 How to reach me:
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-j-mukoyani/)
+- 🤖 Leading Azubi Africa with AWS Cloud Projects
+- 🌱 Exploring Data Science & Machine Learning on Kaggle
+- ⚡ Building solo projects and staying current with tech articles
+- 📫 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-j-mukoyani/)
+
+---
+
+### 🎯 Fun Facts
+
+- 🍕 Pizza enthusiast (hence the ninja pizza footer!)
+- 🎮 Gamer and Twitch streamer in my downtime
+- 📚 Always learning something new in tech
+- 🌍 Passionate about sharing knowledge and mentoring
+- ☕ Fueled by coffee and curiosity
 
 ---
 
@@ -79,6 +88,22 @@ I am a Cloud Engineer with experience in the AWS Cloud <img src="https://media.g
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/william-muko/william-muko/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</p>
+
+---
+
+### 💭 Programming Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
 </p>
 
 ---
