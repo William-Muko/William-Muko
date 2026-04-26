@@ -54,9 +54,9 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <img src="https://skillicons.dev/icons?i=html,css,javascript,aws,git,anaconda,python,sqlite,mysql,mongodb,terraform,linux,docker,kubernetes&perline=7" />
 </p>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
 </p>
 
 ---
