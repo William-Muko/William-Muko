@@ -50,29 +50,14 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### 🛠️ Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" title="Anaconda" alt="Anaconda" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" alt="Terraform" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
-
-  <!-- Devicon Fallbacks -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,aws,git,anaconda,python,sqlite,mysql,mongodb,terraform,linux,docker,kubernetes&perline=7" />
+</p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>
-</div>
+</p>
 
 ---
 
@@ -121,23 +106,7 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 <!-- SOCIAL ICONS -->
 
-<p align="center">
-  <a href="https://x.com/Jeff_Muko">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter / X" alt="Twitter" width="40" height="40">
-  </a>
-  <a href="https://www.instagram.com/jeff_muko/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="40" height="40">
-  </a>
-  <a href="https://discord.com/users/mukodr">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord" alt="Discord" width="40" height="40">
-  </a>
-  <a href="https://linkedin.com/in/william-j-mukoyani/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://www.twitch.tv/mukoyani">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" title="Twitch" alt="Twitch" width="40" height="40">
-  </a>
-</p>
+<p align="center"><a href="https://x.com/Jeff_Muko"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter / X" alt="Twitter" width="40" height="40"></a><a href="https://www.instagram.com/jeff_muko/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="40" height="40"></a><a href="https://discord.com/users/mukodr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord" alt="Discord" width="40" height="40"></a><a href="https://linkedin.com/in/william-j-mukoyani/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"></a><a href="https://www.twitch.tv/mukoyani"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" title="Twitch" alt="Twitch" width="40" height="40"></a></p>
 
 
 
