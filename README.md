@@ -105,10 +105,7 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 - Hit follow and connect!
 
 <!-- SOCIAL ICONS -->
-
 <p align="center"><a href="https://x.com/Jeff_Muko"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" title="Twitter / X" alt="Twitter" width="40" height="40"></a><a href="https://www.instagram.com/jeff_muko/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" title="Instagram" alt="Instagram" width="40" height="40"></a><a href="https://discord.com/users/mukodr"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord" alt="Discord" width="40" height="40"></a><a href="https://linkedin.com/in/william-j-mukoyani/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"></a><a href="https://www.twitch.tv/mukoyani"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111668.png" title="Twitch" alt="Twitch" width="40" height="40"></a></p>
-
-
 
 ---
 
