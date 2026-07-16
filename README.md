@@ -34,7 +34,6 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 - 🤖 Leading Azubi Africa with AWS Cloud Projects
 - 🌱 Exploring Data Science & Machine Learning on Kaggle
 - ⚡ Building solo projects and staying current with tech articles
-- 📫 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-j-mukoyani/)
 
 
 ---
