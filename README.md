@@ -36,12 +36,13 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 - ⚡ Building solo projects and staying current with tech articles
 - 📫 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/william-j-mukoyani/)
 
+
 ---
 
 ### 🎯 Fun Facts About Me
 
 - 🍕 Pizza enthusiast (hence the ninja pizza footer!)
-- 🎮 Gamer and Twitch streamer in my downtime
+- 😂 Living life one meme at a time.
 - 📚 Always learning something new in tech
 - 🌍 Passionate about sharing knowledge and mentoring
 - ☕ Fueled by coffee and curiosity
@@ -95,6 +96,7 @@ Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 
 ### 🌱 Currently Learning
 - 🤖 AI & Machine Learning: *Generative AI & LLMs*
+- 🏗️ Building AI Agents.
 
 ---
 
